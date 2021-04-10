@@ -10,6 +10,4 @@ The basic idea is that all the links extracted in the first crawl are stored in 
 
 Aknowledgement: The idea and the script is inspired by various online sourses.
 
-Note: The project is not complete and the CLI functionality is not yet implemented in main.py. The script might also need to be debugged. I pushed my code as I was running out of time.
-
 Thank you
