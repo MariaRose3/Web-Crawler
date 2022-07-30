@@ -53,6 +53,6 @@ class crawler:
 
 	@staticmethod
 	def update_file():
-		set_to_file(crawler.queue, crawler.queue_file)
-		set_to_file(crawler.crawled, crawler.crawled_file)
-		set_to_file(crawler.out_of_domain, crawler.out_of_domain_file)
+		set_file(crawler.queue, crawler.queue_file)
+		set_file(crawler.crawled, crawler.crawled_file)
+		set_file(crawler.out_of_domain, crawler.out_of_domain_file)
