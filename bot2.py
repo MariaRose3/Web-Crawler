@@ -48,4 +48,4 @@ async def poll(ctx,title=None,question=None,*options):
 		await msg.add_reaction('👍')
 		await msg.add_reaction('👎')
 
-client.run('ODQ3ODU5NTg1MDU4NjAzMDU4.YLEMxQ.Srf-MAeeCiBh-nKfSXbRN_Q6OEk')
+client.run('')
